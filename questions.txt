@@ -1,0 +1,114 @@
+Geography:
+What is the capital of France?
+Which river is the longest in the world?
+What is the largest country in the world by land area?
+In which continent is the Sahara Desert located?
+What is the smallest country in the world by land area?
+Which country has the most volcanoes?
+Which city is known as "The Big Apple"?
+What is the capital of Japan?
+What is the tallest mountain in the world?
+Which ocean is the largest in the world?
+History:
+Who was the first President of the United States?
+In which year did World War II end?
+Who was the first woman to fly solo across the Atlantic Ocean?
+What was the name of the ship that sank in 1912 after hitting an iceberg?
+Which ancient civilization built the pyramids of Giza?
+Who was the leader of the Soviet Union during World War II?
+Which country did the United States fight in the Vietnam War?
+Who was the British Prime Minister during most of World War II?
+What year did the Berlin Wall fall?
+Who was the first emperor of China?
+Science:
+What is the chemical symbol for water?
+What is the largest planet in our solar system?
+Which element has the atomic number 1?
+Who developed the theory of relativity?
+What is the process by which plants make their food?
+What is the hardest natural substance on Earth?
+Which scientist is known for discovering the law of gravity?
+What is the chemical symbol for gold?
+What is the most common gas in Earth’s atmosphere?
+What is the boiling point of water in Celsius?
+Literature:
+Who wrote "Romeo and Juliet"?
+What is the name of the fictional wizard school in the "Harry Potter" series?
+Who wrote "Pride and Prejudice"?
+What is the title of the first "Game of Thrones" book?
+Who wrote "1984"?
+What is the name of the protagonist in "Moby-Dick"?
+Who wrote "The Great Gatsby"?
+In which book does the character "Sherlock Holmes" appear?
+Who wrote "The Catcher in the Rye"?
+What book begins with the phrase "Call me Ishmael"?
+Sports:
+Which country hosted the 2016 Summer Olympics?
+What is the national sport of Japan?
+Who holds the record for the most goals scored in World Cup history?
+Which sport is known as "the king of sports"?
+In which year did the first modern Olympic Games take place?
+Who won the 2020 FIFA World Cup (men’s)?
+What is the maximum break in snooker?
+Who is the fastest man in the world, holding the 100m sprint record?
+How many players are there on a standard soccer team?
+Which country won the first Rugby World Cup in 1987?
+Entertainment:
+Who played the character of Jack Dawson in "Titanic"?
+What year was the first "Star Wars" movie released?
+Who is the author of "The Lord of the Rings" trilogy?
+What is the name of the fictional country in "Black Panther"?
+Who directed the movie "Avatar"?
+What is the longest-running Broadway show?
+Who won the first season of "American Idol"?
+What is the highest-grossing film of all time?
+What TV show features a character named Walter White?
+Which animated movie features the song "Let It Go"?
+Music:
+Who is known as the "King of Pop"?
+Which country is the band ABBA from?
+Who wrote the famous classical piece "Symphony No. 9"?
+Which popular music group was formed in Liverpool in 1960?
+What was the title of Adele's debut album?
+Who is the lead singer of the band U2?
+Which song begins with the lyrics "Is this the real life? Is this just fantasy?"
+Who won the first season of "The Voice" in the US?
+Who sang "Like a Rolling Stone"?
+Which artist released the album "Thriller"?
+Art:
+Who painted the "Mona Lisa"?
+What type of art is Jackson Pollock known for?
+Who sculpted the statue of David?
+What is the name of the famous painting by Edvard Munch featuring a screaming figure?
+Which famous artist is known for his works in surrealism, including "The Persistence of Memory"?
+In which city can you find the Louvre Museum?
+Who painted "The Starry Night"?
+What style of painting is Pablo Picasso famous for?
+Who painted the ceiling of the Sistine Chapel?
+What is the name of the museum located in New York that houses "The Starry Night"?
+Technology:
+Who is the co-founder of Microsoft?
+What does "HTTP" stand for in a web address?
+Which company developed the iPhone?
+Who invented the telephone?
+What year was the first personal computer released?
+Who is the founder of Tesla, Inc.?
+What does the abbreviation "USB" stand for?
+Which technology company is known for the "Android" operating system?
+Who is known as the "father of the computer"?
+What does "Wi-Fi" stand for?
+Miscellaneous:
+What is the hardest known material in the human body?
+In which country would you find the Great Barrier Reef?
+What does the word "karaoke" mean in Japanese?
+Which animal is known as the "King of the Jungle"?
+What is the name of the world’s longest river in South America?
+Which month of the year is the shortest?
+What is the name of the first man-made satellite launched into space?
+Who is known as the "Father of Modern Physics"?
+What is the largest animal in the world?
+What is the capital city of Canada?
+
+
+
+
